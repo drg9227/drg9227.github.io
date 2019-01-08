@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.dragonflygame.ktc",
+    "package_name": "com.dragonfly.ktc",
     "sha256_cert_fingerprints":
     ["F2:D4:5C:C5:7F:F2:42:BB:83:47:18:16:20:AD:A0:94:84:8A:DC:C5:CA:AA:1D:CA:5D:FA:9D:A3:41:44:3F:EE"]
   }
